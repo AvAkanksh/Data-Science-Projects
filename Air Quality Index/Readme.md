@@ -4,5 +4,8 @@
 
 I have implemented the code by following the basic steps like:
 
-1.Data collections: from different sources
-2.Preprocessing Data : Feature Engineering 
+    1.Data collections: from different sources using webscraping techniques
+
+    2.Preprocessing Data : Feature Engineering 
+
+    3.Hello
