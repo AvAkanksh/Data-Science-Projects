@@ -23,9 +23,9 @@ def met_data(month, year):
 
     rows = len(tempD) / 15
 
-    for times in range(round(rows)):
+    for _ in range(round(rows)):
         newtempD = []
-        for i in range(15):
+        for __ in range(15):
             newtempD.append(tempD[0])
             tempD.pop(0)
         finalD.append(newtempD)
