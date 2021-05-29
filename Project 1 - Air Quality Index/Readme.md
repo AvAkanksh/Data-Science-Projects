@@ -14,7 +14,7 @@ Also i will be doing all models on jupyter notebook for easy visulaization of di
 
         1. Linear Regression
 
-        2.Lasso Regression 
+        2. Lasso Regression and Ridge Regression
 
         3. Decision Tree Regression
 
